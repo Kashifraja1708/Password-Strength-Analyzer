@@ -31,8 +31,18 @@ This project analyzes password strength using the zxcvbn library and generates c
 This project is intended strictly for educational and ethical security testing purposes.
 
 ## Applications:
-•	Cybersecurity education
-•	Ethical hacking labs
-•	Password awareness training
-•	Security audits
-•	Academic projects
+Cybersecurity education
+
+Ethical hacking labs
+
+Password awareness training
+
+Security audits
+
+Academic projects
+
+# Conclusion:
+
+The Password Strength Analyzer with Custom Wordlist Generator successfully demonstrates how weak passwords can be evaluated and exploited using real-world techniques. 
+By combining password analysis and wordlist generation, the project helps users understand common password vulnerabilities and promotes better security practices. 
+This tool serves as an effective educational and ethical hacking resource.
