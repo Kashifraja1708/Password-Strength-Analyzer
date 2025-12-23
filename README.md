@@ -29,3 +29,10 @@ This project analyzes password strength using the zxcvbn library and generates c
 
 ## Ethical Notice
 This project is intended strictly for educational and ethical security testing purposes.
+
+## Applications:
+•	Cybersecurity education
+•	Ethical hacking labs
+•	Password awareness training
+•	Security audits
+•	Academic projects
